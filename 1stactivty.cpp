@@ -14,7 +14,8 @@ int main(){
 		cout << num1<<"+"<<num2<<"="<<num1+num2;
 		break;
 	case 2:
-		cout << num1<<"-"<<num2<<"="<<num1-num2;					break;
+		cout << num1<<"-"<<num2<<"="<<num1-num2;					
+		break;
 	case 3:
 		cout << num1<<"*"<<num2<<"="<<num1*num2;
 		break;
